@@ -15,4 +15,5 @@ utlis: dataloader and provider (preprocessing point cloud data) <br/>
 
 ### Data
 Using data 196 point cloud with 5 dimension (number samples x 196 x 5)
+Add data to this folder
 
